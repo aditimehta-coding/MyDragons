@@ -1,0 +1,26 @@
+{
+  "files": {
+    "main.css": "/MyDragons/static/css/main.0a3490d3.chunk.css",
+    "main.js": "/MyDragons/static/js/main.45bb4c75.chunk.js",
+    "main.js.map": "/MyDragons/static/js/main.45bb4c75.chunk.js.map",
+    "runtime-main.js": "/MyDragons/static/js/runtime-main.0a363a02.js",
+    "runtime-main.js.map": "/MyDragons/static/js/runtime-main.0a363a02.js.map",
+    "static/css/2.c1f4f5f4.chunk.css": "/MyDragons/static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5f96280c.chunk.js": "/MyDragons/static/js/2.5f96280c.chunk.js",
+    "static/js/2.5f96280c.chunk.js.map": "/MyDragons/static/js/2.5f96280c.chunk.js.map",
+    "static/js/3.b487b24e.chunk.js": "/MyDragons/static/js/3.b487b24e.chunk.js",
+    "static/js/3.b487b24e.chunk.js.map": "/MyDragons/static/js/3.b487b24e.chunk.js.map",
+    "index.html": "/MyDragons/index.html",
+    "static/css/2.c1f4f5f4.chunk.css.map": "/MyDragons/static/css/2.c1f4f5f4.chunk.css.map",
+    "static/css/main.0a3490d3.chunk.css.map": "/MyDragons/static/css/main.0a3490d3.chunk.css.map",
+    "static/js/2.5f96280c.chunk.js.LICENSE.txt": "/MyDragons/static/js/2.5f96280c.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/MyDragons/static/media/SEGA.47b4bfa9.woff"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.0a363a02.js",
+    "static/css/2.c1f4f5f4.chunk.css",
+    "static/js/2.5f96280c.chunk.js",
+    "static/css/main.0a3490d3.chunk.css",
+    "static/js/main.45bb4c75.chunk.js"
+  ]
+}
